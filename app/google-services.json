@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "375736041580",
+    "project_id": "upload-retrieve-image-60578",
+    "storage_bucket": "upload-retrieve-image-60578.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375736041580:android:5c372ab0a1907246c8d849",
+        "android_client_info": {
+          "package_name": "com.example.uploadretrieveimage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnxkL-7JwKX1P8JrKrJbGWMOtW78yS_3U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
